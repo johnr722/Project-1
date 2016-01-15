@@ -1,0 +1,7 @@
+ I need to learn to cut down the \'93leverage\'94, which I found out later that it was at x3,  without risking the profits i see here, overall I think its a good algo\
+
+maybe just cut the
+context.max_notional = \cf2 1000000\
+from 1000000 to 100000\
+
+More research
